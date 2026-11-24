@@ -27,13 +27,12 @@ yarn-error.log*
 
 # local env files
 .env*.local
-.env
-
-# database and audit data
-.data/
 
 # vercel
 .vercel
 
 # typescript
 *.tsbuildinfo
+
+.data/
+

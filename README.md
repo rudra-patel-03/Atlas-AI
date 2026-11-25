@@ -149,9 +149,3 @@ The container exposes port `3000` with non-root security privileges (`nextjs` us
    ```
 
 ---
-
-## 🔑 Default Credentials
-
-- **Standard User (Atlas Reed):** `atlasreed` / `Atlas@12345`
-- **Administrator:** `admin` / `Admin@12345`
-- **Google OAuth:** Select Atlas Reed, Rudra Patel, or enter any custom Google Account.
